@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "AtomicTest"
+rootProject.name = "AndroidBaseline" # Please change
 include(":app")
