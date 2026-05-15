@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.atomictest"
+    namespace = "com.example.androidbaseline"
     compileSdk = 37
 
     defaultConfig {
-        applicationId = "com.example.atomictest"
+        applicationId = "com.example.androidbaseline"
         minSdk = 26
         targetSdk = 37
         versionCode = 1
